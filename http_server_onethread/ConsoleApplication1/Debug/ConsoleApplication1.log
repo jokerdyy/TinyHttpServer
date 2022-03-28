@@ -1,0 +1,7 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\DYY\source\repos\多线程并发C++\http服务器\ConsoleApplication1\ConsoleApplication1.cpp(61,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\DYY\source\repos\多线程并发C++\http服务器\ConsoleApplication1\ConsoleApplication1.cpp(63,5): warning C4996: 'access': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _access. See online help for details.
+C:\Users\DYY\source\repos\多线程并发C++\http服务器\ConsoleApplication1\ConsoleApplication1.cpp(76,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\DYY\source\repos\多线程并发C++\http服务器\ConsoleApplication1\ConsoleApplication1.cpp(98,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\DYY\source\repos\多线程并发C++\http服务器\ConsoleApplication1\ConsoleApplication1.cpp(101,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ConsoleApplication1.vcxproj -> C:\Users\DYY\source\repos\多线程并发C++\http服务器\Debug\ConsoleApplication1.exe

@@ -1,2 +1,3 @@
-# gitskills
-dyy zui shuai!
+# TinyHttpServer
+
+http_server_onethread文件夹内包含了windows下，单线程的简易http服务器实现。
